@@ -1,0 +1,6 @@
+{
+  "name": "Assemblée de Dieu",
+  "description": "Portail officiel et dynamique de l'Église Assemblée de Dieu : cultes, prédications, mur de prière, ministères et cantiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
